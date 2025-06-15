@@ -1,5 +1,5 @@
 # Cyber-Threat-Analysis - README
-# Cybersecurity: Suspicious Web Threat Interactions - README
+# Cybersecurity: Suspicious Web Threat Interactions
 
 ## Project Overview
 This project focuses on detecting and analyzing suspicious web traffic patterns to identify potential cybersecurity threats. Using machine learning techniques, we analyze AWS CloudWatch web traffic data to classify normal vs. suspicious activities and visualize threat patterns.
