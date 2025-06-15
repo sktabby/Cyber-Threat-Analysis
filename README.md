@@ -87,6 +87,11 @@ pip install -r requirements.txt
 ## 🖼️ Sample Visualizations
 
 ![Model accuracy-loss](https://github.com/user-attachments/assets/ccfcde1d-789e-4bca-868c-e96937568dc4)
+![Training accuracy-loss](https://github.com/user-attachments/assets/29c81e84-92f1-41ad-b6ae-c4910f8e2c3a)
+![Network intraction](https://github.com/user-attachments/assets/7276c8e8-268d-45c1-a751-61fcd52ee7b4)
+![Web traffic](https://github.com/user-attachments/assets/fe880ee1-ce47-4ab3-8c67-124ede433424)
+![Detection types](https://github.com/user-attachments/assets/8cc8a6b2-41de-4422-8c06-1a2a41bdac92)
+![correlation matrix](https://github.com/user-attachments/assets/631b7a22-37a1-406e-825b-efc20b20e7af)
 
 ---
 
